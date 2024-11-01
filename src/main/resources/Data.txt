@@ -1,0 +1,6 @@
+pwd=fT)QbvCs_th1Bv&
+mp3BucketName=labstack-65084e7b-f5c8-49e4-b0-pollynotesapibucket-golucwij1ncc
+region=us-west-2
+WindowsIP=44.243.199.156
+
+lab URL => https://classrooms.labs.aws.training/sa/lab/arn%3Aaws%3Alearningcontent%3Aus-east-1%3A006961644361%3Ablueprintversion%2FILT-TF-200-DODEVA-4%2Flab-4-java%3A4.6.0-f2d2a3c6/en-US/65084e7b-f5c8-49e4-b05c-1b0f9a759210::bPxoruW2PniangoxMtZUES
